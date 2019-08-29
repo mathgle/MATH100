@@ -1,0 +1,48 @@
+#page {
+ max-width: 800px;
+ min-width: 720px;
+ margin: 10px auto 10px auto;
+ padding: 20px;
+ border: 4px double #000;}
+
+#name {
+    text-align: center;
+}
+
+ ul {
+ width: 650px;
+ padding: 15px;
+ margin: 0px auto 0px auto;
+ border-top: 2px solid #000;
+ border-bottom: 1px solid #000;
+ text-align: center;}
+
+ li {
+ display: inline;
+ margin: 0px 3px;}
+
+a {
+ color: #000000;
+ text-decoration: none;
+ padding: 6px 18px 5px 18px;}
+ a:hover, a.on {
+ color: #cc3333;
+ background-color: #ffffff;}
+
+p {
+ text-align: center;
+ width: 600px;
+ margin: 20px auto 20px auto;
+ font-weight: normal;}
+
+table{
+ width: 650px;
+ padding: 1px;
+ margin: 0px auto 0px auto;
+ }
+
+td,th{
+    padding: 5px;
+    max-width: 350px;
+    text-align: left;
+}
